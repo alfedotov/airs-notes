@@ -62,7 +62,7 @@ Here's a collection of links about the subject, I'm putting these here because
 people seem to find these useful.
 
 * [`elf(5)` manpage](https://linux.die.net/man/5/elf)
-* [unofficial ELF docs](elf.html) (has
+* [unofficial ELF docs](elf.md) (has
   more than the manpage, also has extra links)
 * [glibc internals](http://s.eresi-project.org/inc/articles/elf-rtld.txt)
 * [stuff about `.gnu.hash`](https://web.archive.org/web/20111022202443/http://blogs.oracle.com/ali/entry/gnu_hash_elf_sections)
