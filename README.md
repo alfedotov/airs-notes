@@ -31,7 +31,7 @@ Authored and copyright by Ian Lance Taylor, collected here fore easy lookup.
 * [Linkers part 19: `__start` and `__stop` symbols, byte swapping](linkers-19.md)
 * [Linkers part 20: ending note](linkers-20.md)
 
-### Other articles included as well:
+### Other articles included as well
 
 * [GCC exception frames](gcc-exception-frames.md)
 * [Linker combreloc](linker-combreloc.md)
@@ -45,7 +45,7 @@ Authored and copyright by Ian Lance Taylor, collected here fore easy lookup.
 * [Executable stack](executable-stack.md)
 * [Piece of PIE](piece-of-pie.md)
 
-### Even more articles, from [MaskRay's blog](https://maskray.me/blog/):
+### Even more articles, from [MaskRay's blog](https://maskray.me/blog/)
 
 * [Stack unwinding](maskray-1.md)
 * [All about symbol versioning](maskray-2.md)
