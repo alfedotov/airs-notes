@@ -43,3 +43,14 @@ Other articles included as well:
 * [Executable stack](executable-stack.md)
 * [Piece of PIE](piece-of-pie.md)
 
+Even more articles, from [MaskRay's blog](https://maskray.me/blog/):
+
+* [Stack unwinding](maskray-1.md)
+* [All about symbol versioning](maskray-2.md)
+* [C++ exception handling ABI](maskray-3.md)
+* [LLD and GNU linker incompatibilities](maskray-4.md)
+* [Copy relocations, canonical PLT entries and protected visibility](maskray-5.md)
+* [GNU indirect function](maskray-6.md)
+* [Everything I know about GNU toolchain](maskray-7.md)
+* [Metadata sections, COMDAT and `SHF_LINK_ORDER`](maskray-8.md)
+
